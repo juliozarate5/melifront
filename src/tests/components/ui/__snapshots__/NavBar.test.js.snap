@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NavBar tests showing component successful 1`] = `
+<nav
+  className="navbar navbar-light bg-light"
+>
+  <div
+    className="container-fluid"
+  >
+    <a
+      className="navbar-brand"
+      href="#"
+    >
+      <img
+        alt=""
+        className="d-inline-block align-text-top"
+        height="24"
+        src="/favicon.svg"
+        width="30"
+      />
+      title
+    </a>
+  </div>
+</nav>
+`;

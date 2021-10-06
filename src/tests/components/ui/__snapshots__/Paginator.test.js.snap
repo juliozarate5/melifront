@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Paginator tests showing component successful 1`] = `
+<nav
+  aria-label="paginación"
+  className="my-3"
+>
+  <ul
+    className="pagination justify-content-center"
+  >
+    <li
+      className="page-item "
+    >
+      <a
+        className="page-link"
+        onClick={[MockFunction]}
+      >
+        Anterior
+      </a>
+    </li>
+    <li
+      className="page-item "
+    >
+      <a
+        className="page-link"
+        onClick={[MockFunction]}
+      >
+        Siguiente
+      </a>
+    </li>
+  </ul>
+</nav>
+`;

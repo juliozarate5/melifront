@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Index tests showing component successful 1`] = `
+<Fragment>
+  <NavBar
+    title="Mercado Libre"
+  />
+  <Banner />
+  <Container
+    arrayTotal={
+      Array [
+        0,
+      ]
+    }
+    handleNext={[Function]}
+    handlePage={[Function]}
+    handlePrevious={[Function]}
+    pagination={
+      Object {
+        "first": true,
+        "last": true,
+        "pageNumber": 0,
+        "pageSize": 5,
+        "totalElements": 10,
+        "totalPages": 1,
+      }
+    }
+    products={Array []}
+  />
+</Fragment>
+`;
