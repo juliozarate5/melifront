@@ -44,3 +44,11 @@ npm start test
 ```bash
 npm start
 ```
+
+# demo
+
+![full screen](https://github.com/juliozarate5/melifront/blob/main/public/1.png?raw=true)
+
+![mobile](https://github.com/juliozarate5/melifront/blob/main/public/2.png?raw=true)
+
+![medium](https://github.com/juliozarate5/melifront/blob/main/public/3.png?raw=true)
