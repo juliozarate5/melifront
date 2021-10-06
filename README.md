@@ -35,5 +35,12 @@ npm install
 ## Run tests
 
 ```bash
-.npm start test
+npm start test
+```
+
+
+## Run Project
+
+```bash
+npm start
 ```
